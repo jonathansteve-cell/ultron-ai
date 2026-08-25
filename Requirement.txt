@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pyyaml
+python-dotenv
+opencv-contrib-python
+mediapipe
+pygame
+numpy
+requests
+aiohttp
