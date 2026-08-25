@@ -1,0 +1,17 @@
+assistant:
+  name: Ultron
+  mode: text  # or "voice"
+
+vision:
+  hand_tracking: true
+  marker_color: red
+
+projector:
+  enabled: true
+  display_index: 1
+  width: 1280
+  height: 720
+
+logging:
+  level: INFO
+  file: logs/ultron.log
